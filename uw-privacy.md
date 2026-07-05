@@ -1,9 +1,3 @@
----
-layout: default
-title: Privacy Policy
-permalink: /privacy/
----
-
 # Privacy Policy — Urban Whispers
 
 **Effective date:** July 4, 2026
