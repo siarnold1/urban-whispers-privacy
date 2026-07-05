@@ -112,4 +112,4 @@ If you have questions about this policy or your data:
 **Simon Arnold**
 **Email:** simon.arnold@mailbox.org
 
-Imprint / legal notice: www.urbanwhispers.me/impressum
+Imprint / legal notice: [Privacy Policy]()
