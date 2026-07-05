@@ -90,4 +90,4 @@ If you have questions about this policy:
 **Simon Arnold**
 **Email:** simon.arnold@mailbox.org
 
-Imprint / legal notice: [Legal notice](https://github.com/siarnold1/privacy-impressum/blob/main/spingo-impressum)
+Imprint / legal notice: [Legal notice](https://github.com/siarnold1/privacy-impressum/blob/main/spingo-impressum.md)
