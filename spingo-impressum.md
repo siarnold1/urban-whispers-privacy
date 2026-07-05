@@ -11,11 +11,6 @@ Germany
 
 **Email:** simon.arnold@mailbox.org
 
-## VAT ID
-
-VAT identification number pursuant to § 27a of the German VAT Act (UStG):
-**[DE...]** *(only if available — otherwise delete this section)*
-
 ## Responsible for content pursuant to § 18 (2) MStV (German State Media Treaty)
 Simon Arnold
 Landsberger Straße 119
