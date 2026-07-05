@@ -44,4 +44,4 @@ The content and works created by the site operator on these pages and in the app
 
 ---
 
-*Privacy: see our [Privacy Policy](https://github.com/siarnold1/urban-whispers-privacy/blob/28c983b874b6bac0f2622002cce1e119b8ad7233/privacy.md)*
+*Privacy: see our [Privacy Policy](https://github.com/siarnold1/privacy-impressum/blob/main/uw-privacy.md)*
